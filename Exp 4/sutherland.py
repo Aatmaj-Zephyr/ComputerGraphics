@@ -1,11 +1,11 @@
 x1= 1
-y1= 5
-x2= 4
-y2= 1
-x_max = 10.0
-y_max = 8.0
-x_min = 4.0
-y_min = 4.0
+y1= 6
+x2= 15
+y2= 11
+x_max = 12
+y_max = 14
+x_min = 4
+y_min = 2
 
 def cohen_sutherland(x1,y1,x2,y2,x_max,y_max,x_min,y_min):
   a = checkCase(x1,y1,x_max,y_max,x_min,y_min)
