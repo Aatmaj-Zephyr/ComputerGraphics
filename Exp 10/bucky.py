@@ -85,8 +85,7 @@ points = [
     (-2.0, -1.0, 1.0),  # Another example point
 ]
 
-def dis(point1,point2):
-    return sum((point1[i]-point2[i])**2 for i in [0,1,2])**0.5
+w
 def draw_points():
     glPointSize(5) 
     glBegin(GL_POINTS)
