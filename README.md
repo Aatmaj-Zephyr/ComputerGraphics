@@ -1,6 +1,7 @@
 # ComputerGraphics
-Lab matreial on Computer graphics.
+Lab material on Computer graphics.
 
+<img width="580" alt="image" src="https://github.com/Aatmaj-Zephyr/ComputerGraphics/assets/83284294/ce689e47-8222-4044-ae91-0770c1628909">
 
 
 
